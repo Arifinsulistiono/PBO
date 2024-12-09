@@ -1,4 +1,4 @@
-package praktikum.sesi11.Pegawai;
+package praktikum.sesi8.Pegawai;
 
 public class Kasir extends Pegawai {
     @Override

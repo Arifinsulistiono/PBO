@@ -1,4 +1,4 @@
-package praktikum.sesi11.Animal;
+package praktikum.sesi8.Animal;
 
 class Animal {
     String name;

@@ -1,9 +1,7 @@
-package praktikum.sesi11.Pegawai;
+package praktikum.sesi8.Pegawai;
 
-public class Koki extends Pegawai {
-    
+public class Pelayan extends Pegawai{
     @Override
-
     public void menampilkan()
     {
         System.out.println("Nama : "+nama);
@@ -12,7 +10,7 @@ public class Koki extends Pegawai {
     }
 
     public void tugas(){
-        System.out.println("Tugas : Memasak makanan dan membuat minuman");
+        System.out.println("Tugas : Melayani dan menyajikanpesanan pembeli");
         System.out.println("-----------------------------------------------");
     }
 }
