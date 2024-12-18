@@ -1,0 +1,280 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Hewan",
+            "request": "launch",
+            "mainClass": "praktikum.Quiz2.Hewan",
+            "projectName": "JAVA_e6c8caf7"
+        },
+        {
+            "type": "java",
+            "name": "HandPhone",
+            "request": "launch",
+            "mainClass": "praktikum.Quiz2.HandPhone",
+            "projectName": "JAVA_e6c8caf7"
+        },
+        {
+            "type": "java",
+            "name": "Angkutan",
+            "request": "launch",
+            "mainClass": "praktikum.Quiz2.Angkutan",
+            "projectName": "JAVA_e6c8caf7"
+        },
+        {
+            "type": "java",
+            "name": "Universitas",
+            "request": "launch",
+            "mainClass": "praktikum.Quiz2.Universitas",
+            "projectName": "JAVA_e6c8caf7"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "praktikum.sesi9.Abstrak_Dan_interface.Main",
+            "projectName": "JAVA_e6c8caf7"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "JAVA_e6c8caf7"
+        },
+        {
+            "type": "java",
+            "name": "BilanganGenap",
+            "request": "launch",
+            "mainClass": "praktikum.quiz.BilanganGenap",
+            "projectName": "JAVA_e6c8caf7"
+        },
+        {
+            "type": "java",
+            "name": "ChecknNumber",
+            "request": "launch",
+            "mainClass": "praktikum.quiz.ChecknNumber",
+            "projectName": "JAVA_e6c8caf7"
+        },
+        {
+            "type": "java",
+            "name": "ForOddEven",
+            "request": "launch",
+            "mainClass": "praktikum.quiz.ForOddEven",
+            "projectName": "JAVA_e6c8caf7"
+        },
+        {
+            "type": "java",
+            "name": "MenggulangHinggaNol",
+            "request": "launch",
+            "mainClass": "praktikum.quiz.MenggulangHinggaNol",
+            "projectName": "JAVA_e6c8caf7"
+        },
+        {
+            "type": "java",
+            "name": "NomorSeri",
+            "request": "launch",
+            "mainClass": "praktikum.quiz.NomorSeri",
+            "projectName": "JAVA_e6c8caf7"
+        },
+        {
+            "type": "java",
+            "name": "AritmatikaDemo",
+            "request": "launch",
+            "mainClass": "praktikum.sesi1.AritmatikaDemo",
+            "projectName": "JAVA_e6c8caf7"
+        },
+        {
+            "type": "java",
+            "name": "OperatorLogika",
+            "request": "launch",
+            "mainClass": "praktikum.sesi1.OperatorLogika",
+            "projectName": "JAVA_e6c8caf7"
+        },
+        {
+            "type": "java",
+            "name": "OperatorRelasi",
+            "request": "launch",
+            "mainClass": "praktikum.sesi1.OperatorRelasi",
+            "projectName": "JAVA_e6c8caf7"
+        },
+        {
+            "type": "java",
+            "name": "Pewarisan",
+            "request": "launch",
+            "mainClass": "praktikum.sesi10.Hewan.Pewarisan",
+            "projectName": "JAVA_e6c8caf7"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "praktikum.sesi10.Main",
+            "projectName": "JAVA_e6c8caf7"
+        },
+        {
+            "type": "java",
+            "name": "BilanganPrima",
+            "request": "launch",
+            "mainClass": "praktikum.sesi2.BilanganPrima",
+            "projectName": "JAVA_e6c8caf7"
+        },
+        {
+            "type": "java",
+            "name": "CekKelulusan",
+            "request": "launch",
+            "mainClass": "praktikum.sesi2.CekKelulusan",
+            "projectName": "JAVA_e6c8caf7"
+        },
+        {
+            "type": "java",
+            "name": "Faktorial",
+            "request": "launch",
+            "mainClass": "praktikum.sesi2.Faktorial",
+            "projectName": "JAVA_e6c8caf7"
+        },
+        {
+            "type": "java",
+            "name": "Hadiah",
+            "request": "launch",
+            "mainClass": "praktikum.sesi2.Hadiah",
+            "projectName": "JAVA_e6c8caf7"
+        },
+        {
+            "type": "java",
+            "name": "HitungGrade",
+            "request": "launch",
+            "mainClass": "praktikum.sesi2.HitungGrade",
+            "projectName": "JAVA_e6c8caf7"
+        },
+        {
+            "type": "java",
+            "name": "HitungRataRata",
+            "request": "launch",
+            "mainClass": "praktikum.sesi2.HitungRataRata",
+            "projectName": "JAVA_e6c8caf7"
+        },
+        {
+            "type": "java",
+            "name": "HurufDigit",
+            "request": "launch",
+            "mainClass": "praktikum.sesi2.HurufDigit",
+            "projectName": "JAVA_e6c8caf7"
+        },
+        {
+            "type": "java",
+            "name": "JumlahMatriks",
+            "request": "launch",
+            "mainClass": "praktikum.sesi2.JumlahMatriks",
+            "projectName": "JAVA_e6c8caf7"
+        },
+        {
+            "type": "java",
+            "name": "Kasir",
+            "request": "launch",
+            "mainClass": "praktikum.sesi2.Kasir",
+            "projectName": "JAVA_e6c8caf7"
+        },
+        {
+            "type": "java",
+            "name": "LampuLaluLintas",
+            "request": "launch",
+            "mainClass": "praktikum.sesi2.LampuLaluLintas",
+            "projectName": "JAVA_e6c8caf7"
+        },
+        {
+            "type": "java",
+            "name": "PolaSegitigaTerbalik",
+            "request": "launch",
+            "mainClass": "praktikum.sesi2.PolaSegitigaTerbalik",
+            "projectName": "JAVA_e6c8caf7"
+        },
+        {
+            "type": "java",
+            "name": "CalculatorMain",
+            "request": "launch",
+            "mainClass": "praktikum.sesi6.CalculatorMain",
+            "projectName": "JAVA_e6c8caf7"
+        },
+        {
+            "type": "java",
+            "name": "ClassBintangFilm",
+            "request": "launch",
+            "mainClass": "praktikum.sesi6.ClassBintangFilm",
+            "projectName": "JAVA_e6c8caf7"
+        },
+        {
+            "type": "java",
+            "name": "ClassMobil",
+            "request": "launch",
+            "mainClass": "praktikum.sesi6.ClassMobil",
+            "projectName": "JAVA_e6c8caf7"
+        },
+        {
+            "type": "java",
+            "name": "MhsTester",
+            "request": "launch",
+            "mainClass": "praktikum.sesi7.MhsTester",
+            "projectName": "JAVA_e6c8caf7"
+        },
+        {
+            "type": "java",
+            "name": "MobilCek",
+            "request": "launch",
+            "mainClass": "praktikum.sesi7.MobilCek",
+            "projectName": "JAVA_e6c8caf7"
+        },
+        {
+            "type": "java",
+            "name": "NilaiTester",
+            "request": "launch",
+            "mainClass": "praktikum.sesi7.NilaiTester",
+            "projectName": "JAVA_e6c8caf7"
+        },
+        {
+            "type": "java",
+            "name": "SiswaTester",
+            "request": "launch",
+            "mainClass": "praktikum.sesi7.SiswaTester",
+            "projectName": "JAVA_e6c8caf7"
+        },
+        {
+            "type": "java",
+            "name": "AnimalTester",
+            "request": "launch",
+            "mainClass": "praktikum.sesi8.Animal.AnimalTester",
+            "projectName": "JAVA_e6c8caf7"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "praktikum.sesi8.Pegawai.Main",
+            "projectName": "JAVA_e6c8caf7"
+        },
+        {
+            "type": "java",
+            "name": "VehicleTester",
+            "request": "launch",
+            "mainClass": "praktikum.sesi8.Vehicle.VehicleTester",
+            "projectName": "JAVA_e6c8caf7"
+        },
+        {
+            "type": "java",
+            "name": "OperasiBilanganAbsCetak",
+            "request": "launch",
+            "mainClass": "praktikum.sesi9.OperasiBilanganAbsCetak",
+            "projectName": "JAVA_e6c8caf7"
+        }
+    ]
+}

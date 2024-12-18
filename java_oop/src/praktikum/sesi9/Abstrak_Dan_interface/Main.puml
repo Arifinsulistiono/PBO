@@ -1,0 +1,45 @@
+@startuml
+
+abstract class Kendaraan {
+    - String nama
+    - int kecepatan
+    + Kendaraan(String nama, int kecepatan)
+    {abstract} + void bergerak()
+}
+
+interface Mesin {
+    + void nyalakanMesin()
+    + void matikanMesin()
+}
+
+interface Transportasi {
+    + void muatBarang()
+    + void turunkanBarang()
+}
+
+class Mobil extends Kendaraan implements Mesin, Transportasi {
+    + Mobil(String nama, int kecepatan)
+    + void bergerak()
+    + void nyalakanMesin()
+    + void matikanMesin()
+    + void muatBarang()
+    + void turunkanBarang()
+}
+
+class Motor extends Kendaraan implements Mesin, Transportasi {
+    + Motor(String nama, int kecepatan)
+    + void bergerak()
+    + void nyalakanMesin()
+    + void matikanMesin()
+    + void muatBarang()
+    + void turunkanBarang()
+}
+
+Kendaraan <|-- Mobil
+Kendaraan <|-- Motor
+Mobil ..|> Mesin
+Motor ..|> Mesin
+Mobil ..|> Transportasi
+Motor ..|> Transportasi
+
+@enduml
